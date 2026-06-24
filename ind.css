@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+font-family: sans-serif;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    width: 80%;
+    
+    margin: auto;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+
+
+.z2{
+
+    display: flex;
+    gap: 20px;
+   
+}
+
+
+
+
+.z2 span {
+    color: #35AFBF;
+    border-bottom: 3px solid #35AFBF;   
+padding-bottom: 10px;
+}
+
+.z2 p{
+ font-size: 16px;
+ color: #969999;
+}
+
+
+
+
+.z3 button{
+    font-size: 16px;
+    padding: 15px;
+    border-radius: 6px;
+    border: none;
+    background-color: #35AFBF;
+    color: white;
+}
+
+
+
+.divleft{
+   margin-top: 150px;
+   width: 30%;
+   margin-right: 750px;
+}
+
+.divleft h1 {
+    
+    font-size: 50px;
+
+}   
+
+
+.divleft h1 span {
+    color: #35AFBF;
+}
+
+.divleft p{
+font-size: 21px;
+color: #707273;
+
+margin-top: 30px; 
+line-height: 30px;
+}
+
+.divleft button {
+    border: none;
+    font-size: 21px;
+    padding: 15px;
+    background-color: #35AFBF;
+    border-radius: 6px;
+    color: white;
+    margin-top: 20px;
+}
+
+.sec1 {
+   
+ display: flex;
+
+justify-content: center;
+}
+
+.divright
+ {
+   
+ }
+
+ .divim {
+    background: url("/image\ background.png");
+    width: 495px;
+    height:435px ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    top: 200px;
+    left: 800px;
+   
+ }
