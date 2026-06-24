@@ -90,17 +90,14 @@ line-height: 30px;
  display: flex;
 
 justify-content: center;
+margin-bottom: 200px;
 }
 
-.divright
- {
-   
- }
 
  .divim {
     background: url("/image\ background.png");
-    width: 495px;
-    height:435px ;
+    width: 525px;
+    height:455px ;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -109,3 +106,105 @@ justify-content: center;
     left: 800px;
    
  }
+
+ .im1 {
+    width: 600px;
+  position: absolute;
+  top: 10px;
+ }
+
+ .im2 {
+    position: absolute;
+    top: -50px;
+    left: -30px;
+ }
+
+ .im3 {
+    position: absolute;
+    left: 550px;
+    top: 50px;
+ }
+
+ .im4 {
+    position: absolute;
+    top: 400px;
+    left: -80px;
+ }
+
+ .im5 {
+    position: absolute;
+    top: 380px;
+left: 550px;
+ }
+
+ .sec1tx {
+    width: 40%;
+   
+    margin: auto;
+    text-align: center;
+ }
+
+ .sec1tx h1 {
+font-size: 35px;
+margin-bottom: 20px;
+ }
+
+ .sec1tx p {
+    
+    color: grey;
+    line-height: 25px;
+ }
+
+ .one{
+text-align: center;
+    width: 260px;
+    height: 230px;
+    background-color: #A3E0E8;
+    padding-top: 30px;
+    border-radius: 10px;
+ }
+
+.one h3 {
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ 
+
+.one p {
+    font-size: 16px;
+    color: gray;
+    line-height: 25px;
+}
+
+.cards {
+    display: flex;
+justify-content: center;
+gap: 40px;
+margin-top: 50px;
+}
+
+
+.one2{
+text-align: center;
+    width: 260px;
+    height: 230px;
+  
+    padding-top: 30px;
+    border-radius: 10px;
+ }
+
+.one2 h3 {
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ 
+
+.one2 p {
+    font-size: 16px;
+    color: gray;
+    line-height: 25px;
+}
